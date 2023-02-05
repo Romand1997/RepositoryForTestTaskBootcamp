@@ -1,0 +1,6 @@
+1. Создайте базу данных Postgres с логином: postgres и паролем: postgres
+Название базы данных DB_for_test_task
+Url базы данных должна выглядеть вот так: jdbc:postgresql://localhost:5432/DB_for_test_task
+2. Запуск через консоль на Linux/Windows:
+2.1 cd /путь к файлу
+2.2 java -jar название файла
